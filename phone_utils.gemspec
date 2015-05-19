@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "phone_utils"
   spec.version       = PhoneUtils::VERSION
   spec.authors       = ["Serena Wales"]
-  spec.email         = ["serenawr@gmail.com"]
+  spec.email         = ["serena@textizen.com"]
   spec.summary       = %q{Some helpful methods for dealing with phone numbers.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.description   = %q{Extracted from Textizen}
+  spec.homepage      = "https://github.com/textizen/phone_utils"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
